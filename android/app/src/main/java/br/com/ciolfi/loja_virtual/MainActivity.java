@@ -1,4 +1,4 @@
-package com.example.flutter_qr;
+package br.com.paware.connectmyhealthform;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

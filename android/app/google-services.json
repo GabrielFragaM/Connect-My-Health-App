@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:401018907855:android:3ef64152427f95d6ed5bba",
+        "mobilesdk_app_id": "1:401018907855:android:332fd0c4723bf1aeed5bba",
         "android_client_info": {
-          "package_name": "br.com.paware.softwares.connectmyhealth"
+          "package_name": "br.com.paware.connectmyhealthform"
         }
       },
       "oauth_client": [
@@ -36,9 +36,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:401018907855:android:d26fc1e2b3631ca4ed5bba",
+        "mobilesdk_app_id": "1:401018907855:android:3ef64152427f95d6ed5bba",
         "android_client_info": {
-          "package_name": "com.example.flutter_qr"
+          "package_name": "br.com.paware.softwares.connectmyhealth"
         }
       },
       "oauth_client": [
